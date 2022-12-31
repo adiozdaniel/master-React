@@ -1,0 +1,14 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+.red {
+    color: red
+}
+
+.bold {
+    font-weight: bold
+}
